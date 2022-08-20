@@ -21,8 +21,8 @@ global.OWNER_REACT = 'Hei♨️' //මෙතනට emoji එකක දාන්�
 global.REACT_NUMBER = '94741668113' //මෙතන number එක.
 
 // Other
-global.owner = ['94721121464',''] //මෙතන number එක.
-global.premium = ['94781516414','94719390985'] //මෙතන number එක.
+global.owner = ['94781516414',''] //මෙතන number එක.
+global.premium = ['94721121464','94719390985'] //මෙතන number එක.
 global.botname = 'Flash Bot' //මෙතන නම.
 global.ownername = 'Lakshan' //මෙතන නම.
 global.ownername = 'Lakshan' //මෙතන නම.
@@ -56,7 +56,7 @@ global.author = 'Flash Bot KL' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
-global.sp = '⭔' //මෙතන emoji එකක්.
+global.sp = '♨️' //මෙතන emoji එකක්.
 global.mess = {
     success: '*හරි*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
