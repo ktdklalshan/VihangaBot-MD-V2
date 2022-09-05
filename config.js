@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = 'Hei♨️' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '94741668113' //මෙතන number එක.
+global.OWNER_REACT = 'Hei😈' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94765840770' //මෙතන number එක.
 
 // Other
-global.owner = ['94781516414',''] //මෙතන number එක.
-global.premium = ['94721121464','94719390985'] //මෙතන number එක.
+global.owner = ['94721121464',''] //මෙතන number එක.
+global.premium = ['94781516414','94719390985'] //මෙතන number එක.
 global.botname = 'Flash Bot' //මෙතන නම.
 global.ownername = 'Lakshan' //මෙතන නම.
 global.ownername = 'Lakshan' //මෙතන නම.
@@ -30,7 +30,7 @@ global.group1 = 'https://wa.me/qr/GQML7LQJYPELM1' //මෙතන grouplink එ�
 global.group2 = 'https://wa.me/qr/TY63AKBIVBCGM1' //මෙතන grouplink එක.
 global.packname = 'Flash Bot' //මෙතන නම.
 global.cap = '*Flash Bot KL*' //මෙතන නම.
-global.img = 'https://i.ibb.co/n09QpVy/5090914.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.img = 'https://i.ibb.co/Gx8KSyY/IMG-20220830-WA0015.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
